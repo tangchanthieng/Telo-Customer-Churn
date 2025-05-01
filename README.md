@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project investigates the critical issue of customer churn within the telecommunication sector. Recognizing that retaining existing customers is more cost-effective than acquiring new ones, this analysis aims to predict the likelihood of customers terminating their relationship with a telecommunications provider. By leveraging machine learning methodologies, both unsupervised and supervised, we re-examine the relationship between various customer attributes and their propensity to churn. This work builds upon established frameworks for churn analysis, including clustering and classification techniques, as well as ensemble and clustering-based model combinations.
+This project investigates the critical issue of customer churn within the telecommunication sector. Recognizing that retaining existing customers is more cost-effective than acquiring new ones, this analysis aims to predict the likelihood of customers terminating their relationship with a telecommunications provider. By leveraging machine learning methodologies, both unsupervised and supervised, we re-examine the relationship between various customer attributes and their propensity to churn. This work builds upon established frameworks for churn analysis, including clustering and regression techniques.
 
 ## Introduction
 
